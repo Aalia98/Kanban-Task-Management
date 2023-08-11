@@ -1,8 +1,9 @@
-# React + Vite
+# Kanban Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Tech stacks ----->  REACT, REDUX, TAILWIND CSS
 
-Currently, two official plugins are available:
+- With this app, users can easily create, organize and track their tasks and projects in a visual and intuitive way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Whether you're a student, a professional, or just someone who wants to stay organized, this app has you covered.
+
+- From creating boards and columns to adding tasks and subtasks, to moving tasks across columns with drag and drop functionality, this app offers a seamless and efficient way to manage your tasks.
